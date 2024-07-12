@@ -39,7 +39,7 @@ body {
 
 .header-link-active,
 .header-link:hover {
-  color: var(--primary-color-ocean);
+  color: #404bbf;
 }
 
 .address-header-link {
