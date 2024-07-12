@@ -91,10 +91,16 @@ body {
 
 .features-titles {
   color: var(--navy-blue-text);
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
 }
 
 .features-description {
   color: var(--slate-text);
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 .our-team-section {
   background-color: var(--cloud-color);
@@ -102,6 +108,11 @@ body {
 
 .our-team-titles {
   color: var(--navy-blue-text);
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
 }
 .team-description {
   color: var(--slate-text);
