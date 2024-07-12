@@ -168,10 +168,22 @@ body {
 
 .footer-logo {
   color: var(--cloud-color);
+  font-family: "Raleway";
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+}
+.footer-logo-studio {
+  color: #f4f4fd;
 }
 
 .footer-text {
   color: var(--cloud-color);
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 
 .footer-section {
