@@ -7,7 +7,6 @@
   --cloud-color: #f4f4fd;
   --corn-color: #e7e9fc;
 }
-
 body {
   font-family: "Roboto", sans-serif;
   color: #434455;
@@ -22,11 +21,9 @@ body {
   text-transform: uppercase;
   color: #4d5ae5;
 }
-
 .logo-span {
   color: var(--navy-blue-text);
 }
-
 .header-link {
   font-family: Roboto;
   font-size: 16px;
@@ -36,12 +33,10 @@ body {
   text-align: left;
   color: var(--navy-blue-text);
 }
-
 .header-link-active,
 .header-link:hover {
   color: #404bbf;
 }
-
 .address-header-link {
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -52,11 +47,9 @@ body {
 .address-header:focus {
   color: #404bbf;
 }
-
 .main-header {
   background-color: var(--corn-color);
 }
-
 .first-section {
   background-color: var(--navy-blue-text);
 }
@@ -67,7 +60,6 @@ body {
   text-align: center;
   letter-spacing: 0.02em;
 }
-
 .primary-button {
   width: Hug (169px) px;
   height: Hug (56px) px;
@@ -88,7 +80,6 @@ body {
 .primary-button:focus {
   background-color: var(--primary-color-ocean);
 }
-
 .features-titles {
   color: var(--navy-blue-text);
   font-weight: 500;
@@ -96,7 +87,6 @@ body {
   line-height: 1.2;
   letter-spacing: 0.02em;
 }
-
 .features-description {
   color: var(--slate-text);
   line-height: 1.5;
@@ -157,15 +147,12 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-
 .portfolio-section {
   background-color: var(--corn-color);
 }
-
 .header-logo {
   color: var(--navy-blue-text);
 }
-
 .footer-logo {
   color: var(--cloud-color);
   font-family: "Raleway", sans-serif;
@@ -179,13 +166,11 @@ body {
 .footer-logo-studio {
   color: #f4f4fd;
 }
-
 .footer-text {
   color: var(--cloud-color);
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-
 .footer-section {
   background-color: var(--navy-blue-text);
 }
