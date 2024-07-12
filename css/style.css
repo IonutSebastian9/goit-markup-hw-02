@@ -45,7 +45,7 @@ body {
 }
 .address-header-link:hover,
 .address-header:focus {
-  color: var(--primary-color-ocean);
+  color: #404bbf;
 }
 .main-header {
   background-color: var(--corn-color);
