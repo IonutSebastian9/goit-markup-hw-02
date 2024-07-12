@@ -25,7 +25,7 @@ body {
   color: var(--navy-blue-text);
 }
 .header-link {
-  font-family: "Roboto";
+  font-family: "Roboto", sans-serif;
   font-size: 16px;
   font-weight: 500;
   line-height: 24px;
