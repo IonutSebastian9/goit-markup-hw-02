@@ -48,7 +48,8 @@ body {
   font-style: normal;
   color: var(--slate-text);
 }
-.address-header-link:hover {
+.address-header-link:hover,
+.address-header:focus {
   color: #404bbf;
 }
 
@@ -61,7 +62,12 @@ body {
 }
 .main-title {
   color: var(--white-text);
+  font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
 }
+
 .primary-button {
   width: Hug (169px) px;
   height: Hug (56px) px;
@@ -74,8 +80,12 @@ body {
   cursor: pointer;
   background-color: var(--button-color);
   color: var(--white-text);
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
 }
-.primary-button:hover {
+.primary-button:hover,
+.primary-button:focus {
   background-color: var(--primary-color-ocean);
 }
 
