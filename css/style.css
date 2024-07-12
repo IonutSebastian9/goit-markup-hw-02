@@ -105,7 +105,15 @@ body {
 .our-team-section {
   background-color: var(--cloud-color);
 }
-
+.our-team-title {
+  color: var(--navy-blue-text);
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  font-weight: 500;
+}
 .our-team-titles {
   color: var(--navy-blue-text);
   font-size: 36px;
