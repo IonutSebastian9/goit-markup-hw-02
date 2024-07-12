@@ -13,7 +13,7 @@ body {
   background-color: #ffffff;
 }
 .header-logo {
-  color: var(--button-color);
+  color: #4d5ae5;
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
@@ -44,7 +44,7 @@ body {
   color: var(--slate-text);
 }
 .address-header-link:hover,
-.address-header:focus {
+.address-header-link:focus {
   color: #404bbf;
 }
 .main-header {
