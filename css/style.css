@@ -114,8 +114,16 @@ body {
   letter-spacing: 0.02em;
   text-transform: capitalize;
 }
+.our-team-list {
+  background-color: #ffffff;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+}
 .team-description {
   color: var(--slate-text);
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 .portfolio-titles {
   color: var(--navy-blue-text);
