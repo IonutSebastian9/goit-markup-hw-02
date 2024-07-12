@@ -106,13 +106,19 @@ body {
   background-color: var(--cloud-color);
 }
 
-.our-team-titles {
+.our-team-title {
   color: var(--navy-blue-text);
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
   letter-spacing: 0.02em;
   text-transform: capitalize;
+
+  .our-team-titles {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+  }
 }
 .our-team-list {
   background-color: #ffffff;
@@ -124,6 +130,7 @@ body {
   color: var(--slate-text);
   line-height: 1.5;
   letter-spacing: 0.02em;
+  font-size: 16px;
 }
 .portfolio-titles {
   color: var(--navy-blue-text);
