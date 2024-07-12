@@ -20,7 +20,7 @@ body {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: var(--button-color);
+  color: #4d5ae5;
 }
 
 .logo-span {
@@ -42,10 +42,13 @@ body {
   color: var(--primary-color-ocean);
 }
 
-.address-link {
+.address-header-link {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  font-style: normal;
   color: var(--slate-text);
 }
-.address-link:hover {
+.address-header-link:hover {
   color: var(--primary-color-ocean);
 }
 
