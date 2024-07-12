@@ -49,7 +49,7 @@ body {
   color: var(--slate-text);
 }
 .address-header-link:hover {
-  color: var(--primary-color-ocean);
+  color: #404bbf;
 }
 
 .main-header {
