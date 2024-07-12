@@ -1,0 +1,107 @@
+:root {
+  --primary-color-ocean: #404bbf;
+  --navy-blue-text: #2e2f42;
+  --slate-text: #434455;
+  --white-text: #ffffff;
+  --button-color: #4d5ae5;
+  --cloud-color: #f4f4fd;
+  --corn-color: #e7e9fc;
+}
+
+body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.header-link {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  text-align: left;
+  color: var(--navy-blue-text);
+}
+
+.header-link-active,
+.header-link:hover {
+  color: var(--primary-color-ocean);
+}
+
+.address-link {
+  color: var(--slate-text);
+}
+.address-link:hover {
+  color: var(--primary-color-ocean);
+}
+
+.main-header {
+  background-color: var(--corn-color);
+}
+
+.first-section {
+  background-color: var(--navy-blue-text);
+}
+.main-title {
+  color: var(--white-text);
+}
+.primary-button {
+  width: Hug (169px) px;
+  height: Hug (56px) px;
+  top: 428px;
+  left: 636px;
+  padding: 16px 32px 16px 32px;
+  gap: 10px;
+  border-radius: 4px 0px 0px 0px;
+  opacity: 0px;
+  cursor: pointer;
+  background-color: var(--button-color);
+  color: var(--white-text);
+}
+.primary-button:hover {
+  background-color: var(--primary-color-ocean);
+}
+
+.features-titles {
+  color: var(--navy-blue-text);
+}
+
+.features-description {
+  color: var(--slate-text);
+}
+.our-team-section {
+  background-color: var(--cloud-color);
+}
+
+.our-team-titles {
+  color: var(--navy-blue-text);
+}
+.team-description {
+  color: var(--slate-text);
+}
+.portfolio-titles {
+  color: var(--navy-blue-text);
+}
+.portfolio-description {
+  color: var(--slate-text);
+}
+
+.portfolio-section {
+  background-color: var(--corn-color);
+}
+
+.header-logo {
+  color: var(--navy-blue-text);
+}
+
+.footer-logo {
+  color: var(--cloud-color);
+}
+
+.footer-text {
+  color: var(--cloud-color);
+}
+
+.footer-section {
+  background-color: var(--navy-blue-text);
+}
